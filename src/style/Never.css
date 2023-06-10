@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&family=Open+Sans:ital,wght@1,300;1,400&family=Roboto+Mono:ital,wght@0,200;1,300&family=Rubik:ital,wght@1,300&display=swap');
+
+.never{
+    position: relative;
+    /* left: 0.06%;
+right: -0.06%;
+top: 96.52%; */
+bottom: 0%;
+width: 100%px;
+height: 355px;
+background: #131514;
+position: relative;
+}
+.never1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+/* left: -2.89%;
+right: 93.17%;
+top: 98.83%;
+bottom: -0.5%; */
+bottom: 0%;
+border-radius: 0% 90% 0% 0%;
+background: #E0E0E0;
+}
+.never2{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+/* left: -2.89%;
+right: 93.17%;
+top: 98.83%;
+bottom: -0.5%; */
+
+right: 0%;
+border-radius: 0% 0% 0% 100%;
+background:#E0E0E0;;
+}
+
+.never3{
+    color: #E0E0E0;;
+    display: flex;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 50px;
+    font-family: 'Istok Web', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+}
+
+.never4{
+    margin-right: 380px;
+   /* margin-bottom: 15px; */
+}
+.never4 h1{
+    font-weight: 300;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.never4 .input{
+    margin-bottom: 18px;
+}
+.never4 .input input{
+    background: #FFFFFF;
+    position: relative;
+    width: 350px;
+    height: 28px;
+border-radius: 30px;
+margin-left: -20px;
+padding-left: 35px;
+text-align: left;
+font-size: 16px;
+font-style: italic;
+border-color: 2px solid white;
+}
+.never4 .input button{
+    cursor: pointer;
+    position: absolute;
+    background: #E0E0E0;
+border-radius: 30px;
+width: 90px;
+    height: 28px;
+   left: 340px; 
+   border-color: 2px solid white;
+}
+.never4 h4{
+    font-size: 22px;
+    margin-bottom: 2px;
+}
+.never4 img{
+    margin-right: 4px;
+    cursor: pointer;
+}
+.never5 h1{
+    font-weight: 400;
+font-size: 26px;
+}
+
+.never6 {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.never6 li{
+    font-size: 16px;
+    margin: 5px;
+}
+
+.never7{
+    font-style: normal;
+    list-style: none;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.never7 h1{
+    font-weight: 400;
+font-size: 26px;
+color: white;
+margin-bottom: 25px;
+}
+.never7 .never8 li{
+    font-size: 16px;
+    margin: 6px 0px;
+}
+/* .never9 div{
+    align-items: center;
+    justify-content: center;
+} */
+.never9{
+    align-items: center;
+    justify-content: center;
+}
+.never9 .never10{
+    position: absolute;
+    color: white;
+    bottom: 3px;
+    width: 350px;
+    align-items: center;
+    justify-content: center;
+    left: 550px;
+    font-size: 13px;
+}

@@ -1,0 +1,49 @@
+.blogs{
+    height: 456px;
+    background: #DDF8F3;
+}
+
+.blogs1{
+   padding: 12px 25px;
+   padding-bottom: 20px;
+}
+.blogs1 span h1{
+    font-family: 'Itoya-Bold';
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #4C696D;
+}
+.blogs2{
+    display: flex;
+}
+
+.blogs3 img{
+    width: 427px;
+    height: 350px;
+}
+.blogs5{
+    height: 307px;
+}
+.blogs6{
+    height: 307px;
+}
+.blogs8{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.blogs8 p{
+    width: 300px;
+}
+.blogs8 p b .para{
+   margin-bottom: 20px;
+
+}
+.blogs7 span{
+    margin-left: 30px;
+    margin-right: 200px;
+    /* margin-bottom: 30px; */
+    margin-top: 12px;
+    cursor: pointer;
+}

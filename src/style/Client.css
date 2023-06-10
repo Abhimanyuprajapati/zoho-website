@@ -1,0 +1,89 @@
+.clients{
+    position: relative;
+    display: flex;
+    margin-top: 6%;
+    margin-bottom: 6% ;
+}
+.client1{   
+    margin-left: 40px;
+}
+.client2{
+    position: relative;
+}
+.client2 .client3{
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+}
+.client2 .client4{
+    position: absolute;
+  top: 1px;
+  left: 20px;
+}
+.client6{
+    display: flex;
+    justify-content: space-between;
+}
+.client9{
+    display: flex;
+}
+.client7 h1{
+    font-size: 36px;
+line-height: 42px;
+
+color: #4C696D;
+width: 384px;
+height: 37px;
+}
+.client7 h5{
+    font-size: 20px;
+    font-weight: 300;
+line-height: 23px;
+
+color: #000000;
+}
+.client8{
+    margin-right: 20px;
+}
+.client8 .client50{
+    background: #4E99A4;
+    border: 0.5px solid #000000;
+    border-radius: 10px;
+    width: 111.43px;
+height: 26.1px;
+}
+.client8 button{
+    margin-right: 10px;
+    width: 111.43px;
+    height: 26.1px;
+background: #FFFFFF;
+border: 0.5px solid #000000;
+border-radius: 10px;
+cursor: pointer;
+}
+
+.client9{
+    margin-top: 23px;
+}
+.client10{
+    position: relative;
+    color: white;
+   text-align: center;
+    width: 180.24px;
+height: 275.77px;
+margin: 10px 20px;
+background: #416F75;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.client10 span h3{
+    margin-top: 10px;
+}
+.client22{
+    /* position: absolute; */
+    /* top: 0px; */
+    margin-left: 9%;
+    margin-top: -20px;
+   
+    height: 130px;
+}

@@ -1,0 +1,18 @@
+.discover{
+    margin-top: 1px;
+    margin-bottom: 30px;
+}
+.discover img{
+    max-width: 1510px;
+height: 402px;
+}
+.discover span h1{
+    margin-top: 28px;
+    text-align: center;
+    font-weight: 400;
+    color: #4C696D;
+    margin-bottom: 16px;
+}
+.discover .dis{
+    margin-right: 60px;
+}

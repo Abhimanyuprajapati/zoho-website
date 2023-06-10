@@ -1,0 +1,36 @@
+.associate{
+    background-color: #A1E3D8;
+    height: 451px;
+}
+
+.associate1{
+    display: flex;
+    font-family: 'Itoya-Bold';
+    text-align: center;
+    color: #4C696D;
+}
+.associate1 section h1{
+    margin-top: 25px;
+    font-size: 36px;
+   margin-left: 39px;
+}
+.associate1 section p{
+    font-family: 'Itoya-Light';
+    font-size: 20px;
+    margin-left: 89px;
+    align-items: center;
+    color: #0C0C0C;
+}
+.associate1 section h3{
+    margin-top: 25px;
+    font-size: 36px;
+   margin-left: 800px;
+   cursor: pointer;
+}
+.associate2 img{
+    width: 1470px;
+    cursor: pointer;
+   margin-left: 30px;
+   margin-top: 109px;
+
+}

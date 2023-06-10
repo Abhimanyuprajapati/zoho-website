@@ -1,0 +1,84 @@
+.platform{
+    margin-top: 12px;
+}
+.platform1 h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 64px;
+    font-family: 'Jura';
+}
+.platform1 p {
+    text-align: center;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    color: #4C696D;
+    font-weight: 50;
+    font-size: 32px;
+}
+.button{
+    display:flex;
+}
+.platform1 .button1{
+    position: relative;
+width: 995px;
+height: 51px;
+margin-left: 340px;
+margin-top: 30px;
+background: rgba(255, 255, 255, 0.98);
+border-radius: 34px;
+font-family: 'Josefin Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+text-align: center;
+}
+
+.platform1 .button2{
+    position:absolute;
+    background: #221010;
+border: 1.5px solid #000000;
+border-radius: 34px;
+width: 277px;
+height: 52px;
+color: white ;
+margin-top: 29px;
+margin-left: 1070px;
+
+}
+
+.logo1{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+.logo2{
+    margin-left: 50px;
+}
+.logo1 .logo2{
+    display: flex;
+   
+}
+.logo3{
+    margin-top: 45px;
+}
+.logo3 h4{
+    margin-left: 30px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.logo3 p{
+    margin-left: 30px;
+    font-weight: 300;
+    font-size: 12px;
+}
+/* .hrline{
+    margin-bottom: 20px;
+    margin-top: 10px;
+} */
+hr{
+    background-color: #4C696D;
+    height:5px
+   
+}
+

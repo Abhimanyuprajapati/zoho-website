@@ -1,0 +1,74 @@
+.offer{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 30px;
+background: #BADCDC;
+box-shadow: inset 0px 261px 124px #FFFFFF;
+}
+
+.offer1{
+    display: flex;
+    flex-direction:row ;
+    gap: 70px;
+    background: #BADCDC;
+box-shadow: inset 0px -243px 124px #FFFFFF;
+/* margin-bottom: 30px; */
+}
+.offer3{
+    margin-top: 5px;
+    margin-bottom: 40px;
+    font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #4C696D;
+}
+.offer3 p{
+    font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #000000;
+}
+
+.offer4{
+    position: relative;
+    cursor: pointer;
+}
+.offer5{
+    position: absolute;
+}
+.offer4 .offer5 h4{
+    position: absolute;
+    bottom: 200px;
+    /* top: -200px; */
+    left: 65px;
+    color: rgb(219, 216, 216);
+    font-size: 29px;
+    font-weight: 400;
+   
+}
+.offer5 p{
+    position: absolute;
+    bottom: 105px;  
+    left: 16px;
+    color: rgb(252, 249, 249);
+    font-size: 25px;
+    font-weight: 400;
+}
+.offer5 img{
+    position: absolute;
+    /* top: 20px; */
+    bottom: 30px; 
+    /* right: 60px; */
+    left: 0px;
+}
+.offer5 button{
+border: none;
+margin-left: 80px;
+margin-top: 10px;
+cursor: pointer;
+}
