@@ -1,3 +1,4 @@
+import React from "react"
 import Associate from "./components/associate"
 import Award from "./components/award"
 import Blank from "./components/blank"
